@@ -1,0 +1,9 @@
+.Gif__wrapper {
+    width: 30%;
+    margin: 15px;
+}
+
+.Gif__wrapper>img {
+    width: 100%;
+    border: 4px solid lightgray;
+}

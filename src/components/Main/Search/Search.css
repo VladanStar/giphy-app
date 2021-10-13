@@ -1,0 +1,10 @@
+.Search__wrapper {
+    text-align: center;
+    color: #818181;
+}
+
+#search-bar {
+    width: 900px;
+    padding-left: 15px;
+    outline-color: #1e7ee5;
+}
